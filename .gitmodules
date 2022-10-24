@@ -1,0 +1,3 @@
+[submodule "Assets/entitas"]
+	path = Assets/entitas
+	url = https://github.com/sschmid/Entitas.git
